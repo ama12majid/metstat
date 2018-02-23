@@ -3,15 +3,15 @@ METSTAT
 Package ini merupakan hasil komputerisasi dari uji-uji statistik yang ada pada matakuliah metode statistika 2 di Sekolah Tinggi Ilmu Statistik.
 
 Instalasi Package
-========
+---------------
 Package ini dapat kamu install dengan memasukkan command ini di R:
 ```{r}
 install.packages("devtools")
-devtools::install_github("ama12majid/metstat)
+devtools::install_github("ama12majid/metstat")
 ```
 
 Fungsi dalam Package
-===============
+------------------
 Dalam package ini terdapat beberapa fungis untuk melakukan analisis seperti: 
 
 Uji Rata-Rata 1 Populasi dengan Sampel Besar:
