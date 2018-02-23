@@ -3,7 +3,7 @@ Type: Package
 Title: Pengujian Hipotesis Rata-Rata, Proporsi, dan Varians untuk 1 Populasi dan 2 Populasi
 Version: 1.1.0
 Author: Muhammad Abdul Majid
-Maintainer: Hai, jika anda mengalami masalah dengan package ini, coba email ke <dramateneigersmansa1@gmail.com>
+Maintainer: Muhammad Abdul Majid <dramateneigersmansa1@gmail.com>
 Description: Package ini disusun guna memudahkan dalam pengujian hipotesis untuk rata-rata, proporsi, dan varians, baik 1 populasi maupun 2 populasi.
 License: Public
 Encoding: UTF-8
