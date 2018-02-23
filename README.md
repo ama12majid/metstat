@@ -1,6 +1,6 @@
 METSTAT
 ========
-Package ini merupakan hasil komputerisasi dari uji-uji statistik yang ada pada matakuliah metode statistika 2 di Sekolah Tinggi Ilmu Statistik.
+> Package ini merupakan hasil komputerisasi dari uji-uji statistik yang ada pada matakuliah metode statistika 2 di Sekolah Tinggi Ilmu Statistik.
 
 Instalasi Package
 ---------------
