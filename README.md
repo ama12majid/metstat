@@ -75,4 +75,4 @@ var2pop(data1, data2, sigma1, sigma2, alpha)
 ```
 
 
-Info lebih lanjut kunjungi blog [ini](http://letme-escape.blogspot.co.id) atau bisa email ke <dramateneigersmansa1@gmail.com>
+Info lebih lanjut kunjungi blog [ini](http://letme-escape.blogspot.co.id) atau bisa email ke <dramateneigersmansa1@gmail.com> :)
