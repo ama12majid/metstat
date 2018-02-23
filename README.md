@@ -8,7 +8,7 @@ Package ini dapat kamu install dengan memasukkan command ini di R:
 ```{r}
 install.packages("devtools")
 devtools::install_github("ama12majid/metstat)
-'''
+```
 
 Fungsi dalam Package
 ===============
